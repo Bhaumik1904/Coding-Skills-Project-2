@@ -35,7 +35,7 @@ Attendance %
 Marks + grade
 Printable report card
 
->>Tech Stack<<
+5. Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express
@@ -54,7 +54,7 @@ Open in browser:
 
 http://localhost:5000
 
->> Project Structure
+**Project Structure**
 project/
 │
 ├── backend/       → server.js + JSON data files
