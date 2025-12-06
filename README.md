@@ -6,7 +6,9 @@ Zeeshaan Suhail Shaik - [![GitHub](https://img.shields.io/badge/GitHub-Profile-b
 Amith Ratna Marisa - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Amith-143)
 Manya Srivastava - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Manya349)
 Jayanti Yadav - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/jayantiyadav04)
-A simple full-stack web application built using Node.js + Express + HTML/CSS/JS for managing student data, attendance, marks, timetable, and student profiles with Admin / Teacher / Student roles.
+<br>A simple full-stack web application built using Node.js + Express + HTML/CSS/JS for managing student data, attendance, marks, timetable, and student profiles with Admin / Teacher / Student roles.</br>
+
+https:[CANVA LINK](//www.canva.com/design/DAG6vOZQ4o0/q_5Z_GXU6esw08VXkNkzqg/view?utm_content=DAG6vOZQ4o0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb1992b2b51)
 
 Features:
 1.Role-Based Login
