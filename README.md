@@ -1,3 +1,11 @@
+<br>STUDENT RECORD MANAGEMENT SYSTEM</br>
+
+<br>TEAM MEMBERS:</br>
+Bhaumik Hinunia - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Bhaumik1904)
+Zeeshaan Suhail Shaik - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Zeeshaan-23)
+Amith Ratna Marisa - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Amith-143)
+Manya Srivastava - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Manya349)
+Jayanti Yadav - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/jayantiyadav04)
 A simple full-stack web application built using Node.js + Express + HTML/CSS/JS for managing student data, attendance, marks, timetable, and student profiles with Admin / Teacher / Student roles.
 
 Features:
